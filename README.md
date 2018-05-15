@@ -1,4 +1,4 @@
-MVC framework
+Ember MVC framework
 
 ## Requirements
 *   Node.js
